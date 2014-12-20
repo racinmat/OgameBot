@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config>
+    <accounts>
+        <account>
+            <password></password>
+            <planetList/>
+            <universeUrl>s119-cz</universeUrl>
+            <username></username>
+        </account>
+    </accounts>
+</config>
